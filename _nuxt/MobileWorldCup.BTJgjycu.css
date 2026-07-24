@@ -1,0 +1,1 @@
+.marquee-track[data-v-ac4b50ae]{animation:marquee-scroll-ac4b50ae 60s linear infinite}.marquee-track[data-v-ac4b50ae]:active{animation-play-state:paused}@keyframes marquee-scroll-ac4b50ae{0%{transform:translate(0)}to{transform:translate(-50%)}}

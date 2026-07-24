@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PredictFi Terms of Service</title>
+  <script>
+    // Auto-redirect based on URL parameter
+    (function() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const langParam = urlParams.get('lang');
+      
+      // If lang parameter is provided, redirect to corresponding page
+      if (langParam) {
+        const langMap = {
+          'en': 'terms-of-service.html',
+          'ko': 'terms-of-service-ko.html',
+          'es': 'terms-of-service-es.html',
+          'pt': 'terms-of-service-pt.html'
+        };
+        if (langMap[langParam] && langMap[langParam] !== 'terms-of-service.html') {
+          window.location.href = langMap[langParam];
+        }
+      }
+    })();
+  </script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: #111;
+      color: #e0e0e0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.8;
+      padding: 40px 20px;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 16px;
+      padding: 48px;
+    }
+    h1 {
+      font-size: 28px;
+      color: #f5f5f5;
+      margin-bottom: 32px;
+      text-align: center;
+    }
+    h3 {
+      font-size: 18px;
+      color: #f5f5f5;
+      margin-top: 32px;
+      margin-bottom: 12px;
+    }
+    h4 {
+      font-size: 15px;
+      color: #ddd;
+      margin-top: 20px;
+      margin-bottom: 8px;
+    }
+    p, li {
+      font-size: 14px;
+      color: #aaa;
+      margin-bottom: 8px;
+    }
+    strong { color: #ccc; }
+    a { color: #6366f1; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    ul {
+      padding-left: 20px;
+      margin-bottom: 8px;
+    }
+    li { margin-bottom: 6px; }
+    hr {
+      border: none;
+      border-top: 1px solid #2a2a2a;
+      margin: 24px 0;
+    }
+    .meta {
+      color: #888;
+      font-size: 13px;
+      margin-bottom: 24px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Terms of Service</h1>
+    <p class="meta">Version: 1.0 &nbsp;|&nbsp; Effective Date: June 1, 2025</p>
+
+    <h3>1. General Provisions</h3>
+    <p>1.1 This Agreement is entered into between you ("User" or "you") and the operating entity of the PredictFi platform ("PredictFi" or "we"), and governs your use of PredictFi's prediction market services.</p>
+    <p>1.2 By registering an account, accessing the platform, or using any platform feature, you acknowledge that you have read, understood, and agreed to all terms of this Agreement. If you do not agree, please discontinue use immediately.</p>
+    <p>1.3 PredictFi reserves the right to amend this Agreement in response to regulatory changes or business updates. Amendments will be announced on the platform; continued use constitutes acceptance of the revised terms.</p>
+
+    <hr />
+
+    <h3>2. Eligibility &amp; Accounts</h3>
+
+    <h4>2.1 Eligibility</h4>
+    <p>You must be at least 18 years of age (or the age of legal majority in your jurisdiction) and ensure that your use of this platform complies with applicable laws and regulations in your country or region.</p>
+    <p>For geographic restrictions, please refer to: <a href="https://help.polymarket.com/en/articles/13364163-geographic-restrictions" target="_blank" rel="noopener noreferrer">Polymarket Geographic Restrictions</a> (PredictFi enforces similar access restrictions in accordance with mainstream compliance practices).</p>
+    <p>For KYC/AML requirements, PredictFi may require identity verification for certain operations as mandated by applicable compliance obligations. Details will be communicated via platform notifications.</p>
+
+    <h4>2.2 Account Creation</h4>
+    <p>Upon completing registration, PredictFi will automatically provision a prediction market trading account ("Trading Account") for you, used to manage your account balance, trading history, and settlement records.</p>
+
+    <h4>2.3 Account Nature</h4>
+    <ul>
+      <li>Your Trading Account is not a self-custodial on-chain wallet. PredictFi does not expose underlying wallet addresses, private keys, or seed phrases to users.</li>
+      <li>Assets held in your Trading Account are managed by PredictFi's infrastructure; you interact with them through the platform interface.</li>
+      <li>Each user may hold only one account. Multi-account behavior is strictly prohibited.</li>
+    </ul>
+
+    <h4>2.4 Account Security</h4>
+    <p>You are responsible for safeguarding your account credentials. All activity under your account is deemed to be your own. Report any suspicious activity to customer support immediately. PredictFi is not liable for losses resulting from your failure to secure your account.</p>
+
+    <hr />
+
+    <h3>3. Deposits &amp; Withdrawals</h3>
+    <p>3.1 Deposits must be made exclusively through PredictFi's designated deposit flow. Transfers outside of the platform's established process will not be accepted.</p>
+    <p>3.2 Withdrawals must be initiated through PredictFi's designated withdrawal flow and may be subject to AML compliance review. Applicable fees, processing times, and minimum withdrawal amounts are governed by platform announcements.</p>
+    <p>3.3 PredictFi manages user assets in accordance with its operational rules but does not guarantee absolute asset security under extreme circumstances, including but not limited to network outages, system attacks, or regulatory intervention. Users assume all associated risks.</p>
+
+    <hr />
+
+    <h3>4. Prediction Market Trading Rules</h3>
+
+    <h4>4.1 Market Participation</h4>
+    <p>Users may participate in prediction markets listed on PredictFi by taking positions on the outcomes of specified events.</p>
+
+    <h4>4.2 Market Resolution</h4>
+    <p>Market outcomes are determined in accordance with PredictFi's pre-published resolution rules, using designated data sources, oracles, or other trusted reference points. In the event of a data dispute or unavailability, PredictFi will apply its dispute resolution mechanism, and the resulting determination shall be final and binding.</p>
+
+    <h4>4.3 Risk Disclosure</h4>
+    <ul>
+      <li>Prediction market trading involves risk of loss, including the potential loss of your entire position.</li>
+      <li>PredictFi makes no predictions or guarantees regarding market outcomes and does not provide investment advice.</li>
+      <li>All trading decisions and associated financial risks are solely your responsibility.</li>
+    </ul>
+
+    <h4>4.4 Market Suspension &amp; Voiding</h4>
+    <p>PredictFi reserves the right to suspend, modify, or void any market in the event of data source unavailability, material changes to event definitions, technical failures, or regulatory requirements.</p>
+
+    <hr />
+
+    <h3>5. Prohibited Conduct</h3>
+    <p>The following activities are strictly prohibited:</p>
+    <ul>
+      <li>Money laundering, fraud, terrorist financing, or any other illicit financial activity</li>
+      <li>Use of bots, scripts, or automated tools for wash trading, volume manipulation, or artificial order generation</li>
+      <li>Market manipulation, price manipulation, or dissemination of misleading information intended to influence market outcomes</li>
+      <li>Operating multiple accounts to circumvent platform rules, exploit promotional rewards, or engage in arbitrage abuse</li>
+      <li>Unauthorized access, penetration testing, scraping, or reverse engineering of platform systems</li>
+      <li>Account sharing, renting, or transferring to third parties</li>
+    </ul>
+    <p>Violations may result in warnings, feature restrictions, balance freezes, account suspension, forfeiture of ill-gotten gains, and/or legal action at PredictFi's discretion.</p>
+
+    <hr />
+
+    <h3>6. Intellectual Property</h3>
+    <p>All platform content — including but not limited to UI/UX design, source code, data models, and brand assets — is the property of PredictFi or its respective rights holders. Reproduction, modification, distribution, or creation of derivative works without prior written authorization is strictly prohibited.</p>
+
+    <hr />
+
+    <h3>7. Disclaimers</h3>
+    <p>7.1 PredictFi does not guarantee uninterrupted service availability. Downtime may occur due to maintenance, upgrades, or force majeure events.</p>
+    <p>7.2 PredictFi is not liable for losses arising from user error, network issues, third-party service failures, or force majeure events.</p>
+    <p>7.3 All information provided on the platform is for reference purposes only and does not constitute investment advice or any guarantee of returns.</p>
+    <p>7.4 PredictFi's total aggregate liability shall not exceed the trading fees paid by you in the three (3) months preceding the date of the relevant claim.</p>
+
+    <hr />
+
+    <h3>8. Service Modifications &amp; Termination</h3>
+    <p>8.1 PredictFi may modify or discontinue any part of its services at any time, with reasonable advance notice except in cases of emergency.</p>
+    <p>8.2 PredictFi reserves the right to immediately suspend or terminate any account found to be in violation of this Agreement, without prior notice.</p>
+
+    <hr />
+
+    <h3>9. Governing Law &amp; Dispute Resolution</h3>
+    <p>9.1 This Agreement is governed by the laws of the jurisdiction in which PredictFi is registered.</p>
+    <p>9.2 Disputes shall first be resolved through good-faith negotiation. If unresolved, disputes shall be submitted to a competent arbitration body for binding arbitration.</p>
+    <p>9.3 The Chinese-language version of this Agreement shall be the authoritative version.</p>
+
+    <hr />
+
+    <h3>10. Contact Us</h3>
+    <p>Official Email: <a href="mailto:business@predictfi.one">business@predictfi.one</a></p>
+    <p>Official Website: <a href="https://predictfi.one" target="_blank" rel="noopener noreferrer">https://predictfi.one</a></p>
+  </div>
+</body>
+</html>

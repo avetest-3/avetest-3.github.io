@@ -1,0 +1,1 @@
+import{Y as a,tt as e}from"./DjTUklHq.js";import{d as t,l as r}from"./dpYepT-X.js";import{t as s}from"./DegWH-nQ.js";e();var f=a({__name:"index",setup:a=>(s({middleware:r(()=>t("/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599-eth",{replace:!0}))}),()=>{})});export{f as default};

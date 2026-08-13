@@ -1,0 +1,1 @@
+import{yl as a}from"./C-hje026.js";var o=a("/download/frame-1.svg");export{o as t};

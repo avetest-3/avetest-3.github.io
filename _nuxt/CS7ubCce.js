@@ -1,0 +1,1 @@
+import{yl as a}from"./C-hje026.js";var o=a("/icon-default.png");export{o as t};

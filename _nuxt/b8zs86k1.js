@@ -1,0 +1,1 @@
+import{Tr as s,t as r,xn as e}from"./C-hje026.js";function n(){const n=e(),a=r();return(n.address&&s(n.chain)?n.address:"")||a.evmAddress||""}function a(){const s=e(),n=r();return!s.address&&!!n.evmAddress&&!!n.accessToken}export{a as n,n as t};

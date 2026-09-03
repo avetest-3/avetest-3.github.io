@@ -1,0 +1,1 @@
+import"./DeNFLrmP.js";var e=""+new URL("avedex_mobile_logo.DN0XNEWA.webp",import.meta.url).href;export{e as t};

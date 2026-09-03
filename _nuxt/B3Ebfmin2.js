@@ -1,0 +1,1 @@
+import{Kl as e,jn as i}from"./DeNFLrmP.js";var n=e("favToken",()=>{const e=i({prefix:"favToken",defaultFixedWidth:280});return{...e,visible:e.visible,favTokenBoundingRect:e.boundingRect}});export{n as t};

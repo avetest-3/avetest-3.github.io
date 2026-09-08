@@ -1,0 +1,1 @@
+import{Y as r,tt as a}from"./CfeRQnyM.js";import{d as e,l as s}from"./D4xQnmAS.js";import{t}from"./CmhSrlIR.js";a();var m=r({__name:"index",setup:r=>(t({middleware:s(r=>e({path:"/hyperliquid",query:r.query},{replace:!0}))}),()=>{})});export{m as default};

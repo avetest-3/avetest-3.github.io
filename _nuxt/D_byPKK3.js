@@ -1,0 +1,1 @@
+import{Rt as t}from"./BsHM2xva.js";import{t as r}from"./Bc0Bhven.js";import{t as a}from"./DiTtngU72.js";async function o(o,e){if(!a())return null;try{const r=await t([{target_address:o,target_chain:e}]);return Object.values(r.favorited).some(Boolean)}catch(s){return r.error(String(s)),null}}export{o as t};

@@ -1,0 +1,1 @@
+import{rt as i}from"./DrhaqNfo.js";import{Jt as t}from"./BsHM2xva.js";var o=i("position",()=>{const i=t({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{o as t};

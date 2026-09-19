@@ -1,0 +1,1 @@
+import{Oi as t,Ti as n,bi as o}from"./BsHM2xva.js";import{S as i}from"#entry";function r(r){const a=r&&function(t){return n().isDark?t.icon:t.icon_light||i().matchTag(String(t.type))?.icon_light||t.icon}(r);return a&&"unknown"!==a?`${t().token_logo_url}address_portrait/${a}`:o}export{r as t};

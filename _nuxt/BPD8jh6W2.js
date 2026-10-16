@@ -1,0 +1,1 @@
+import{ea as t}from"./kLF8MCto.js";function r(r){return t().aveSwapSupportedChains.includes(r)}function e(){const t=localStorage.getItem("solanaProtection");if(null==t||""===t)return!1;try{return!!JSON.parse(t)}catch{return"true"===t}}export{e as n,r as t};

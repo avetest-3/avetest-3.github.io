@@ -1,0 +1,1 @@
+import"./Bllz2UrH.js";var t=""+new URL("tax_to_otcdesks.CxosC3ex.svg",import.meta.url).href;export{t as default};

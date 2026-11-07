@@ -1,0 +1,1 @@
+var t={width:16,height:16,body:'<g fill="none"><rect width="15" height="15" x=".5" y=".5" stroke="currentColor" rx="3.5"/></g>'};export{t as default};

@@ -1,0 +1,1 @@
+import{C as n,z as t}from"./BXjGkdfr.js";import{dn as r}from"./amtMh-xR.js";function o(t){const o=r();return n(()=>{if(!o.chainWalletMode)return"";const n=o.globalChains[0]||"",r=t();return n&&r.length&&!r.includes(n)?n:""})}t();export{o as t};

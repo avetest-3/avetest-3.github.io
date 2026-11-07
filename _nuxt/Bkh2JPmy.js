@@ -1,0 +1,1 @@
+var l={width:18,height:18,body:'<g fill="none"><path fill="currentColor" d="m7.65 11.1411 6.2046-6.2053.9551.9545L7.65 13.05 3.3543 8.7543l.9545-.9545z"/></g>'};export{l as default};

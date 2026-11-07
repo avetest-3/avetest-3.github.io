@@ -1,0 +1,1 @@
+import{C as t,St as o,jt as e,z as i}from"./BXjGkdfr.js";import{h as n}from"./Cj5MKSNo.js";function s(o,i){const s=e(0);return n(o,t=>{const o=t[0];o&&(s.value=o.borderBoxSize?.[0]?.inlineSize??o.contentRect.width)}),t(()=>i()&&s.value?{width:`${s.value}px`}:void 0)}o(),i();export{s as t};

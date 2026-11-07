@@ -1,0 +1,1 @@
+import{D as t}from"./C9tPsjI-.js";function e(){const{$api:e}=t();return e("/v2api/settings/v1/preferences",{method:"get"})}function n(e){const{$api:n}=t();return n("/v2api/settings/v1/preferences/update",{method:"post",body:e})}export{n,e as t};

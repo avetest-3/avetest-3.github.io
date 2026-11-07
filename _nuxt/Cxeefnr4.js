@@ -1,0 +1,1 @@
+import{_ as e,b as n}from"./Cj5MKSNo.js";var r=n(()=>e("noReminderQuickBuy",!1)),a=n(()=>e("noReminderQuickSell",!1));export{a as n,r as t};

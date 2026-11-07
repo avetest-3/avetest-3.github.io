@@ -1,0 +1,1 @@
+var e={width:12,height:12,body:'<g fill="none"><g stroke="currentColor" stroke-linecap="round" stroke-width=".87"><ellipse cx="6.08" cy="3.74" rx="4.435" ry="2"/><path d="M1.74 6.55a4.435 2 0 0 0 8.68 0m-8.68 2.1a4.435 2 0 0 0 8.68 0"/></g></g>'};export{e as default};

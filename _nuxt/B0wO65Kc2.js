@@ -1,0 +1,1 @@
+import{T as s,et as t,z as o}from"./BXjGkdfr.js";import{t as r}from"./DgLP3hnZ2.js";import{B as a}from"./MgHisy_q.js";o();var e=Object.assign(r({},[["render",function(o,r){const e=a;return t(),s(e,{name:"custom:select-down",class:"text-6px"})}]]),{__name:"SuffixIcon"});export{e as t};

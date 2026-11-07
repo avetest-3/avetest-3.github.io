@@ -1,0 +1,1 @@
+var t={width:12,height:12,body:'<g fill="none"><mask id="a" fill="#fff"><rect width="12" height="12" rx="1"/></mask><rect width="12" height="12" stroke="currentColor" stroke-width="2.8" mask="url(#a)" rx="1"/></g>'};export{t as default};

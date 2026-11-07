@@ -1,0 +1,1 @@
+import{T as t,f as i}from"./BDR9yBOp.js";function n(n){if(null==n||""===n)return"";const r=t(n);return r.isFinite()?`${i(r.times(100))}%`:""}export{n as t};

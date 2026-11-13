@@ -1,0 +1,1 @@
+var l={width:60,height:60,body:'<g fill="none" style="display:block"><circle cx="30" cy="30" r="30" fill="#12b886"/><path fill="#f5f5f5" d="M25.5012 42 15 31.4988l3.4996-3.4996 7.0016 7.0016L39.4996 21l3.502 3.4996z"/></g>'};export{l as default};

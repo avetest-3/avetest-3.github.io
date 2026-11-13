@@ -1,0 +1,1 @@
+var t={width:1024,height:1024,body:'<path fill="currentColor" d="M0 512a512 512 0 1 0 1024 0A512 512 0 1 0 0 512"/>'};export{t as default};

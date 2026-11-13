@@ -1,0 +1,1 @@
+import{$ as t,B as a,Ct as e,Mt as n,Q as s}from"./ci5gUNoE.js";function o(a=1e3){const e=n(Date.now());let o;return s(()=>{o=window.setInterval(()=>{e.value=Date.now()},a)}),t(()=>{o&&clearInterval(o)}),e}e(),a();export{o as t};

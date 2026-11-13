@@ -1,0 +1,1 @@
+var o={left:126,top:54,width:18,height:18,body:'<g fill="none"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" d="M141.562 57.75h-2.25m-3-1.5v3m0-1.5h-8.25m3 5.25h-3m6-1.5v3m8.25-1.5h-8.25m7.5 5.25h-2.25m-3-1.5v3m0-1.5h-8.25"/></g>'};export{o as default};

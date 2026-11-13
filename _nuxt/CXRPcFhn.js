@@ -1,0 +1,1 @@
+function n(n,e){const t=[...new Set((e||[]).filter(Boolean))],o=(n||[]).filter(Boolean);if(!o.length)return t;const r=[...new Set(o)].filter(n=>t.includes(n));return r.length?r:t}function e(n,e){const t=e||[];return n&&t.includes(n)?n:t[0]||n||""}export{n,e as t};

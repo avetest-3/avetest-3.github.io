@@ -1,0 +1,1 @@
+var e="data:image/svg+xml,%3csvg%20preserveAspectRatio='none'%20overflow='visible'%20style='display:%20block;'%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20id='Ellipse%207270'%20cx='10'%20cy='10'%20r='10'%20fill='%23ADB6DB'%20fill-opacity='0.08'/%3e%3c/svg%3e";export{e as default};

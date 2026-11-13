@@ -1,0 +1,1 @@
+import{Qo as r,cs as s,rs as t,ts as n}from"./D2cFjsGt.js";function a(a,e,o){if(!s(o))return!1;var i=typeof e;return!!("number"==i?r(o)&&t(e,o.length):"string"==i&&e in o)&&n(o[e],a)}export{a as t};

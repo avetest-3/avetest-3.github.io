@@ -1,0 +1,1 @@
+var c={width:11,height:6,body:'<g fill="currentColor"><circle cx="1" cy="1" r="1"/><circle cx="4" cy="1" r="1"/><circle cx="7" cy="1" r="1"/><circle cx="10" cy="1" r="1"/><circle cx="1" cy="5" r="1"/><circle cx="4" cy="5" r="1"/><circle cx="7" cy="5" r="1"/><circle cx="10" cy="5" r="1"/></g>'};export{c as default};

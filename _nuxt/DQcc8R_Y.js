@@ -1,0 +1,1 @@
+var r={width:12,height:12,body:'<g fill="none"><rect width="2" height="11" x=".5" y=".5" stroke="currentColor" rx=".5"/><rect width="2" height="11" x="4.8301" y=".5" stroke="currentColor" rx=".5"/><rect width="2" height="11" x="9.1602" y=".5" stroke="currentColor" rx=".5"/></g>'};export{r as default};

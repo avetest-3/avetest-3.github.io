@@ -1,0 +1,1 @@
+import{o as t}from"./CD1_j3t_.js";function a(a){const o=new t(a),n=JSON.parse(o.formatJson());return n.forEach(t=>{"function"!==t.type||t.stateMutability||(t.stateMutability="nonpayable")}),n}export{a as t};

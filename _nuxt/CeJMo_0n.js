@@ -1,0 +1,1 @@
+import{B as t,E as a,P as s,at as r,tt as e,vt as o}from"./ci5gUNoE.js";import{t as m}from"./BnxjkS9k.js";t();var p=s({__name:"avePrimaryButton",setup:t=>(t,s)=>{const p=m;return e(),a(p,{class:"h-32px px-16px",type:"primary",round:""},{default:o(()=>[r(t.$slots,"default")]),_:3})}}),n=Object.assign(p,{__name:"AvePrimaryButton"});export{n as t};

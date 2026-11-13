@@ -1,0 +1,1 @@
+import{B as n,w as t}from"./ci5gUNoE.js";import{_n as r}from"./D2cFjsGt.js";function o(n){const o=r();return t(()=>{if(!o.chainWalletMode)return"";const t=o.globalChains[0]||"",r=n();return t&&r.length&&!r.includes(t)?t:""})}n();export{o as t};

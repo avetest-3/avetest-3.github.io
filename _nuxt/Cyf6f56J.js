@@ -1,0 +1,1 @@
+var e={width:7,height:4,body:'<g fill="none"><path fill="currentColor" fill-rule="evenodd" d="M0 3.5 3.5 0 7 3.5z" clip-rule="evenodd"/></g>'};export{e as default};

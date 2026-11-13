@@ -1,0 +1,1 @@
+var l={width:20,height:20,body:'<g fill="none" style="display:block"><circle cx="10" cy="10" r="10" fill="#adb6db" fill-opacity=".08"/></g>'};export{l as default};

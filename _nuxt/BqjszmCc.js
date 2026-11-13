@@ -1,0 +1,1 @@
+import{i as o}from"./BP7fa7mj.js";function t(t){for(const i in t)o(i,t[i])}export{t};

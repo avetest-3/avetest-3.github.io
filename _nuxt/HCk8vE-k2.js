@@ -1,0 +1,1 @@
+import{B as a,E as s,P as t,at as e,tt as o,x as r}from"./ci5gUNoE.js";import{B as l,a as p,z as d}from"./CoNgJEtI.js";var i=d({to:{type:l([String,Object]),required:!0},disabled:Boolean});a();var m=p(t({__name:"teleport",props:i,setup:a=>(a,t)=>a.disabled?e(a.$slots,"default",{key:0}):(o(),s(r,{key:1,to:a.to},[e(a.$slots,"default")],8,["to"]))}));export{i as n,m as t};

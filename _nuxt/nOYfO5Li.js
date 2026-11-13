@@ -1,0 +1,1 @@
+var l={left:1566,top:13,width:14,height:14,body:'<g fill="none"><path fill="currentColor" fill-rule="evenodd" d="M1575.88 15h1.53l-3.35 4.236L1578 25h-3.09l-2.41-3.496-2.77 3.496h-1.53l3.58-4.5304L1568 15h3.16l2.19 3.1955zm-.54 8.9866h.85l-5.49-8.0227h-.91z" clip-rule="evenodd"/></g>'};export{l as default};

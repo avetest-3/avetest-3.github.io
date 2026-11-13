@@ -1,0 +1,1 @@
+import{r}from"./OSVwikST.js";var a=(r="")=>r.replace(/[|\\{}()[\]^$+*?.]/g,"\\$&").replace(/-/g,"\\x2d"),e=a=>r(a);export{a as n,e as t};

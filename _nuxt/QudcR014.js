@@ -1,0 +1,1 @@
+var l={width:24,height:24,body:'<defs><clipPath id="a"><path fill="#fff" d="M0 0h24v24H0z"/></clipPath></defs><g fill="none"><g clip-path="url(#a)"><path fill="currentColor" d="m11.9446 1.5557 3.4809 6.5977 7.3505 1.2718-5.1991 5.3494 1.0619 7.3838-6.6942-3.2916-6.6943 3.2916 1.0619-7.3838L1.113 9.4252l7.3505-1.2718z"/></g></g>'};export{l as default};

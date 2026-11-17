@@ -1,0 +1,1 @@
+import{Ct as r}from"./CGZg2MKn.js";function t(){if(!arguments.length)return[];var t=arguments[0];return r(t)?t:[t]}export{t};

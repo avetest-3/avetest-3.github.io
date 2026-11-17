@@ -1,0 +1,1 @@
+import{g as a}from"./CGZg2MKn.js";var e=e=>a?window.requestAnimationFrame(e):setTimeout(e,16),i=e=>a?window.cancelAnimationFrame(e):clearTimeout(e);export{e as n,i as t};

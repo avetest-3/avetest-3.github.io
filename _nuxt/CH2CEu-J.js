@@ -1,0 +1,1 @@
+import{a as t,b as i}from"./CfN_05Xm.js";function n(n){if(null==n||""===n)return"";const r=i(n);return r.isFinite()?`${t(r.times(100))}%`:""}export{n as t};

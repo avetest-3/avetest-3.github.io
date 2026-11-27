@@ -1,0 +1,1 @@
+var e={left:188,top:4,width:18,height:18,body:'<g fill="none"><path stroke="currentColor" stroke-linejoin="round" stroke-width="1.3" d="M204.5 19.3135c-1.835-2.2398-3.464-3.5108-4.888-3.8129q-2.136-.4532-4.068-.137v4.0114l-6.044-6.5455 6.044-6.2045v3.8126q3.5715.0282 6.072 2.5624c1.667 1.6894 2.629 3.794 2.884 6.3135Z" clip-rule="evenodd"/></g>'};export{e as default};

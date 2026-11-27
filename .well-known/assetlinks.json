@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ai.ave.platform",
+      "sha256_cert_fingerprints": [
+        "37:1E:18:F7:1A:AF:C2:93:14:A0:1D:BB:03:8C:6F:2F:33:A7:C9:79:21:B3:9B:4B:26:18:C3:13:29:2A:5D:33"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "pro.wallet.ave",
+      "sha256_cert_fingerprints": [
+        "F1:4B:43:06:D5:46:5D:8F:CD:FB:98:5F:14:A7:F6:11:CD:C1:33:E4:85:0D:E0:26:F6:51:65:50:DB:36:81:ED"
+      ]
+    }
+  }
+]

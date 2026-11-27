@@ -1,0 +1,1 @@
+import"./Bllz2UrH.js";var a=""+new URL("apk.BJTEu30f.svg",import.meta.url).href;export{a as default};

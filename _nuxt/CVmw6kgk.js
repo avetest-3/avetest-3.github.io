@@ -1,0 +1,1 @@
+var e="fixed-one-click-height";function t(){const t=Number(localStorage.getItem(e));return Number.isFinite(t)&&t>=467}export{t as n,e as t};

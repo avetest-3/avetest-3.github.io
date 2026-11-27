@@ -1,0 +1,1 @@
+import{B as t,Ct as o,Mt as e,w as i}from"./ci5gUNoE.js";import{h as s}from"./CocA8TV_.js";function a(t,o){const a=e(0);return s(t,t=>{const o=t[0];o&&(a.value=o.borderBoxSize?.[0]?.inlineSize??o.contentRect.width)}),i(()=>o()&&a.value?{width:`${a.value}px`}:void 0)}o(),t();export{a as t};

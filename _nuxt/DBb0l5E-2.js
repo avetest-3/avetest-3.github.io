@@ -1,0 +1,1 @@
+var t={width:16,height:16,body:'<g fill="none"><rect x="9" y="2" width="5" height="12" rx="1" fill="#5A5E64"/>\n<rect x="2" y="2" width="5" height="5" rx="1" fill="var(--rect2)"/>\n<rect x="2" y="9" width="5" height="5" rx="1" fill="var(--rect3)"/></g>'};export{t as default};

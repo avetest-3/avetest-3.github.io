@@ -1,0 +1,1 @@
+var f={width:16,height:16,body:'<g fill="none"><path fill="#fff" fill-opacity=".6" d="M3.8001 2.6v9.6h9.6v1.2h-10.8V2.6zm8.964 1.764 1.272 1.272-3.636 3.6372-1.8-1.8-2.364 2.364-1.272-1.2732 3.636-3.636 1.8 1.8z"/></g>'};export{f as default};

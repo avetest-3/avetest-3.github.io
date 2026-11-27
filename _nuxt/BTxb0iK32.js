@@ -1,0 +1,1 @@
+function r(r){return(r.preferRemark?r.remark||r.myRemark:r.myRemark||r.remark)||r.alias||""}function a(r){return r.alias||r.wallet_logo?.name||""}export{r as n,a as t};

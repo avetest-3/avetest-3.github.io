@@ -1,0 +1,1 @@
+import{y as i}from"./CM4PZvLT.js";import{t as o}from"./UQiZY1Ci.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};

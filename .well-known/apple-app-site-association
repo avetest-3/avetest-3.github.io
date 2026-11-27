@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5K552RLG8F.app.chainpulse.com"],
+        "components": [{ "/": "/*" }]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+var a=(...a)=>r=>{a.forEach(a=>{a.value=r})};export{a as t};

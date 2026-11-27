@@ -1,0 +1,1 @@
+var o={width:12,height:12,body:'<g fill="none"><path stroke="currentColor" stroke-linejoin="round" stroke-width=".8667" d="M6 11c2.7614 0 5-2.2386 5-5S8.7614 1 6 1 1 3.2386 1 6s2.2386 5 5 5Z"/><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8667" d="M4 5.0003h4L7 3.667m1 3.3327H4L5 8.333"/></g>'};export{o as default};
